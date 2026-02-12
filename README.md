@@ -188,4 +188,3 @@ https://github.com/Mounika-annareddy14/Powerbi/blob/main/products-insights.png  
 
 **Mounika (Data Analyst | Data Science )**
 
-> Further advanced analysis will be added in the next phase of the project.
